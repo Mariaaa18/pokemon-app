@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mariaaa18/pokemon-app.git/static/css/main.320cef14.css",
+    "main.js": "/Mariaaa18/pokemon-app.git/static/js/main.cb4b480d.js",
+    "index.html": "/Mariaaa18/pokemon-app.git/index.html",
+    "main.320cef14.css.map": "/Mariaaa18/pokemon-app.git/static/css/main.320cef14.css.map",
+    "main.cb4b480d.js.map": "/Mariaaa18/pokemon-app.git/static/js/main.cb4b480d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.320cef14.css",
+    "static/js/main.cb4b480d.js"
+  ]
+}
